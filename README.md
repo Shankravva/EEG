@@ -30,9 +30,3 @@ A **web-based EEG analysis dashboard** built using **Streamlit**, allowing visua
 
 ---
 
-## Installation
-
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
